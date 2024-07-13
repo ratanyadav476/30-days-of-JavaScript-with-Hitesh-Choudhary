@@ -1,0 +1,55 @@
+ 
+var number =18; 
+console.log(number);
+
+let myName="Harshit yadav"
+console.log(myName);
+
+
+// Activity 2 constant decleration 
+
+const isTrue=true;
+console.log(isTrue);
+
+// activity 3 datatupes 
+// number 
+let num=123;
+console.log(typeof num);
+
+//string
+
+let friend="selfme"
+console.log(typeof friend);
+
+// boolean 
+let adult=true
+console.log( typeof adult);
+
+// array 
+
+let arr=["raman","nitesh","deepa"]
+console.log(typeof arr);
+
+// object 
+
+let properties={
+
+    name:"kaif",
+    age:19,
+    collage:"KIPM",
+    facalities:true,
+    subjects:["ds","python","js","c","cpp"]
+}
+console.log(typeof properties);
+
+// Activity 4 reassining variables
+
+let variable="ratan"
+console.log(variable)
+variable="harshit"
+console.log(variable);
+
+const numbs=78
+console.log(numbs);
+// numbs=97    cant be possible
+// console.log(numbs);
