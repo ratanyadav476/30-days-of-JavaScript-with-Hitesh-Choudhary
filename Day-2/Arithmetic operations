@@ -1,0 +1,27 @@
+// Arithmatic operations 
+// addition 
+let a=5;
+let b=9;
+let add=a+b;
+console.log(add);
+// substraction 
+let x=4;
+let y=8;
+let sub=x-y;
+console.log(sub);
+
+// multiply 
+let l=8;
+let m=4;
+let multy=l+m;
+console.log(multy);
+
+// division 
+const p=15,q=5;
+const div=p/q;
+console.log(div);
+
+// remender 
+let s=8,r=3;
+let rem=s%r;
+console.log(rem);
