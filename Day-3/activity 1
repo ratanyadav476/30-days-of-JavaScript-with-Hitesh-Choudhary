@@ -1,0 +1,28 @@
+// positive negative or zero 
+function positiveornegative(num) {
+   if (num>0) {
+    console.log(num+ "  is positive");
+   } else if (num<0) {
+    console.log(num +"  is negative");
+   }else{
+    console.log(num +"  is zero");
+   }
+}
+positiveornegative(-6)
+
+
+// eligable for voting or not 
+
+ function elegiblitycheck(age) {
+    if (age>=18) {
+        console.log("eligable for voiting");
+    }else if (age<=18) {
+        console.log("not elagible for voiting");
+    }else{
+        console.log("try next year for vote");
+    }
+}
+
+
+elegiblitycheck(18)
+positiveornegative(0)
