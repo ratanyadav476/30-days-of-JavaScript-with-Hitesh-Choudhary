@@ -1,1 +1,0 @@
-# 30-days-of-JavaScript-with-Hitesh-Choudhary
