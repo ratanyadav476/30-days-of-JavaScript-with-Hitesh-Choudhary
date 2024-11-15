@@ -2,8 +2,6 @@ let book={
     tittle:"mathmatics",
     Author:"R.D Sharma",
     year:2002
-
-
 }
 console.log(book);
 console.log(book.tittle);
